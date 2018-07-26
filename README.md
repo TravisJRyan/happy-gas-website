@@ -3,4 +3,4 @@ The official website of Happy Gas Improv: Kentucky's longest-running improv come
 
 Features I added included: Photo captions, troupe member modals with descriptions, page navigation, and major UI decisions of the site.
 
-To my knowledge, the website should be live at https://happygasimprov.com
+To my knowledge, the website should be live at http://happygasimprov.com
