@@ -1,0 +1,80 @@
+{
+    "members" : [
+        {
+            "name" : "Jacob Chamberlain",
+            "bio" : "Jacob Chamberlain (Initiate Wrangler) is a Senior with an English minor. This is his fourth year on the team. He is 6'2 and made exclusively out of pipe cleaners.",
+            "role" : "President",
+            "picture" : "http://happygasimprov.com/img/team/jacob.jpg"
+        },
+        {
+            "name" : "Claire Wilson",
+            "bio" : "Claire Wilson (Initiate Wrangler) is a Junior majoring in Musical Theatre. She hails from the small town of Russell, KY. In her limited spare time, Claire enjoys playing piano and wishing she could perfect Gob's chicken dance from Arrested Development.",
+            "role" : "Initiate Wrangler",
+            "picture" : "http://happygasimprov.com/img/team/claire.jpg"
+        },
+        {
+            "name" : "Matt Rossoll",
+            "bio" : "Matt Rossoll (PR) is a Sophomore majoring in Musical Theatre. He joined Happy Gas in the Fall of 2018. He enjoys rollercoasters and asking people what they think a pie costs.",
+            "role" : "Public Relations",
+            "picture" : "http://happygasimprov.com/img/team/rossoll.jpg"
+        },
+        {
+            "name" : "Chase Bennett",
+            "bio" : "Chase Bennett (Public Relations) is a Sophomore Dance Major in his second year on the team. He never provided a bio, so he remains shrouded in mystery.",
+            "role" : "Public Relations",
+            "picture" : "http://happygasimprov.com/img/team/chase.jpg"
+        },
+        {
+            "name" : "Ky Majors",
+            "bio" : "Kymaira Majors (Party Planner) is a senior Theatre major who has been on the team for a year. \"hmu if you wear size 9 in mens shoes.\"",
+            "role" : "Party Planner",
+            "picture" : "http://happygasimprov.com/img/team/ky.jpg"
+        },
+        {
+            "name" : "Peyton Montgomery",
+            "bio" : "Peyton Montgomery (Treasurer) is a Senior studying Theatre. She enjoys rolling down the hill and pretending to be insane. For fun, she collects greenhouse gases.",
+            "role" : "Treasurer",
+            "picture" : "http://happygasimprov.com/img/team/peyton.jpg"
+        },
+        {
+            "name" : "Matthew Kerman",
+            "bio" : "Matthew Kerman is a Senior Theatre major at WKU. He joined the team in the Fall 2017 after his second semester as an Initiate, and he enjoys theatre, metal music, and video games.",
+            "role" : "",
+            "picture" : "http://happygasimprov.com/img/team/matthew.jpg"
+        }
+    ],
+    "photos" : [
+        {
+            "title" : "A Warm Welcome",
+            "caption" : "Happy Gas visits Improv Cincinnati for workshops and a peformance with Happy Gas founder Colin Thornton. (Left to Right): Colin Thornton, Gabriel Pless, Travis Ryan, Isaac Barnes, Jacob Chamberlain, Paige Brouillette, Ky Majors",
+            "source" : "http://happygasimprov.com/img/gallery/gallery1.jpg"
+        },
+        {
+            "title" : "Fresh Faces!",
+            "caption" : "Happy Gas welcomes four new initiates to the team! (Left to right: Chase Bennett, Matt Rossoll, Sarah Sandoval, and Peyton Montgomery)",
+            "source" : "http://happygasimprov.com/img/gallery/gallery2.jpg"
+        },
+        {
+            "title" : "Gas the Halls!",
+            "caption" : "Happy Gas celebrates the initiation of four new initiates (Chase Bennett, Sarah Sandoval, Peyton Montgomery, and Matt Rossoll) along with the farewell of Taylor Huff in the Winter 2018 end-of-semester show.",
+            "source" : "http://happygasimprov.com/img/gallery/gallery3.jpg"
+        },
+        {
+            "title" : "A Team Divided",
+            "caption" : "Happy Gas faces off in the competitive improv event of the century: Improv Olympics 2018.",
+            "source" : "http://happygasimprov.com/img/gallery/gallery4.jpg"
+        },
+        {
+            "title" : "The Stage is Set",
+            "caption" : "An iconic image: Happy Gas brings you top-notch comedy using only chairs and people.",
+            "source" : "http://happygasimprov.com/img/gallery/gallery5.jpg"
+        },
+        {
+            "title" : "Groupmind!",
+            "caption" : "Five Happy Gassers performing a scene for an Asssssssscat longform. Pictured (Left to Right): Ky Majors, Camille Acosta, Conner Keef, Ellie Archer, Isaac Barnes",
+            "source" : "http://happygasimprov.com/img/gallery/gallery6.jpg"
+        }
+    ],
+    "header_photo" : "http://happygasimprov.com/img/GroupPhoto.jpg",
+    "who_are_we_photo" : "http://happygasimprov.com/img/scene1.jpg"
+}
